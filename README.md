@@ -1,5 +1,5 @@
 # Notes
-Accessible at [https://DragonWarrior15.github.io/statistical-learning-notes/](https://DragonWarrior15.github.io/statistical-learning-notes/)
+Accessible at https://code-chaser.github.io/statistical-learning-notes/
 
 ## Building Locally
 * Run `make jekyll_serve` to serve using jekyll
